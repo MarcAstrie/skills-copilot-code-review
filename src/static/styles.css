@@ -5,6 +5,14 @@
   --primary-light: #534bae;
   --primary-dark: #000051;
   --primary-text: #ffffff;
+  
+.announcement-banner {
+  background-color: #4caf50;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  font-weight: bold;
+}
 
   /* Secondary colors */
   --secondary: #ff6f00;
